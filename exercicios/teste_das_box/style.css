@@ -1,0 +1,43 @@
+@charset "utf-8";
+
+body{
+    margin: 0px;
+    background-color:#E00600 ;
+}
+
+h1{
+    text-align: center;
+    background-color: #FA5800;
+}
+
+a{
+    text-decoration: none;
+   
+}
+
+#titulos{
+    padding: 10px;
+   
+}
+
+h2{
+    background-color: #FA5800;
+}
+
+span > ul{
+    display: none;
+
+}
+/*span:active >ul{
+    display: block;
+}*/
+
+
+img{
+    background-color: #b60600;
+    border-radius: 15px;
+}
+
+#imagem_geral{
+    margin: auto;
+}
